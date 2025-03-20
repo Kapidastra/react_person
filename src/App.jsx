@@ -23,7 +23,6 @@ export const alex = {
   isMarried: false,
 };
 
-
 export const App = () => (
   <div className="App">
     <section className="Person">
